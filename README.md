@@ -26,11 +26,14 @@ An open-source and strategy Polymarket trainding bot automated prediction market
 
 ## 📊 Overview
 
-<img width="890" height="296" alt="Polymarket profile — performance overview" src="https://github.com/user-attachments/assets/b2561587-4d2e-4afa-a3d9-d042354fda6e" />
-
-> ✨ **Profile refreshed** — updated display name and continued profit growth through systematic end-cycle execution.
 
 <img width="883" height="259" alt="Polymarket profile — P/L and activity stats" src="https://github.com/user-attachments/assets/43610899-6267-49d4-8701-852165906b1b" />
+
+
+> ✨ **Profile refreshed** — updated continued profit growth through systematic end-cycle execution.
+
+<img width="881" height="218" alt="image" src="https://github.com/user-attachments/assets/8059642f-033e-4c57-a101-ba9d8cdb82ac" />
+
 
 > 📈 **Live metrics** — figures mirror the public Polymarket profile and refresh in real time. Visit [@sei-ddev](https://polymarket.com/@sei-ddev) for the current P/L curve, open positions, and full trade history.
 
