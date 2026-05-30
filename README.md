@@ -5,9 +5,6 @@
   <a href="#lang-zh"><strong>中文</strong></a>
 </p>
 
-<p align="center">
-  <em>Click a language below to expand · 点击下方语言展开</em>
-</p>
 
 ---
 
