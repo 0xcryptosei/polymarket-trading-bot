@@ -10,7 +10,7 @@
 
 | | |
 |--|--|
-| **Telegram** | [`@dizzy`](https://t.me/dizzy283) |
+| **Telegram** | [`@S.E.I`](https://t.me/sei_dev) |
 | **Polymarket** | [`@flippingsharks`](https://polymarket.com/@flippingsharks) |
 | **Wallet** | [`0xc387c2a40d389f17b723b6bba9b18b7dbd2de4f4`](https://polymarket.com/profile/0xc387c2a40d389f17b723b6bba9b18b7dbd2de4f4) |
 
@@ -147,6 +147,6 @@ python main.py
 
 ## Links
 
-- **Telegram:** [@dizzy](https://t.me/dizzy283)
+- **Telegram:** [@S.E.I](https://t.me/sei_dev)
 - **Polymarket:** [@flippingsharks](https://polymarket.com/@flippingsharks)
 - **Wallet:** [0xc387c2a40d389f17b723b6bba9b18b7dbd2de4f4](https://polymarket.com/profile/0xc387c2a40d389f17b723b6bba9b18b7dbd2de4f4)
